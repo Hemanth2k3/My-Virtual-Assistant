@@ -28,6 +28,4 @@ The purpose of the Alex Virtual Assistant is to enhance user productivity by off
 
 - Python
 
----
 
-**Note:** Customize the README further based on additional project details and your preferences.
